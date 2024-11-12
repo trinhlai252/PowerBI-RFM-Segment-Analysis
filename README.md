@@ -28,7 +28,7 @@ Access BigQuery data from Power BI Desktop
 <img width="921" alt="st1" src="https://github.com/user-attachments/assets/35d617d6-2bc5-44fc-bfeb-9fe139bde68f">
 
 ### Step 2 -  Define point of view
-<img width="835" alt="st2" src="https://github.com/user-attachments/assets/61dc6419-9821-4e51-8079-69f41c583409">
+<img width="920" alt="st2" src="https://github.com/user-attachments/assets/0dc7a56a-3102-4708-8afd-42041c9061fb">
 
 ### Step 3 - Ideate
 <img width="920" alt="st3" src="https://github.com/user-attachments/assets/92d95080-2623-45f2-84dc-05680db34bed">
