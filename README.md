@@ -11,6 +11,7 @@ Requirement: Apply customer transaction data to perform RFM analysis.
 Dataset: adventureworks2019 (public Google BigQuery dataset)
 
 Dataset Dictionary: [https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1](https://drive.google.com/file/d/1oYm32cdutBwHhkds4l-HznDYPZ5_WCxu/view)
+
 Dataset access:
 * Log in to your Google Cloud Platform account and create a new project.
 * Navigate to the BigQuery console and select your newly created project.
