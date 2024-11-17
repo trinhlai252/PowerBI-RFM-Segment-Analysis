@@ -49,8 +49,8 @@ Access BigQuery data from Power BI Desktop
 <img width="650" alt="page 3" src="https://github.com/user-attachments/assets/ef37ccb3-01f8-48a0-8fa3-88ed6b3cc87a">
 
 ## V. Insight
-### Overview
-#### Analysis of the Data
+### 1. Overview
+#### 1.1 Analysis of the Data
 ##### Revenue drivers:
 * __Champions__: Despite accounting for only 10.81% of total customers, this segment generates the highest revenue, contributing $84,5M, demonstrating exceptional loyalty and high transaction values.
 * __Can't Lose Them__ (11.20%): This segment contributed the second highest revenue at $18.5 million, showing they are still valuable even though these customers have not purchased again in a long time.
@@ -64,7 +64,7 @@ Access BigQuery data from Power BI Desktop
 * __Needing Attention__ (1.38%): The smallest group in both customers and revenue ($42,414), signaling low impact but potential for improvement with targeted actions.
 ##### Emerging Loyalty Segment:
 * __Potential Loyalist__ (5.50%): Generates $162,402 from fewer customers, indicating the high potential to transition into higher-value segments
-#### Recommendations
+#### 1.2 Recommendations
 #####  Focus on High-Revenue Segments (Champions, Can't Lose Them, At Risk, Loyal Customers)
 * __Champions__: Maintain loyalty through personalized rewards, exclusive benefits, and early access to products/services.
 * __Can't Lose Them__: Reactivate engagement with high-value offers or personalized campaigns addressing their preferences; collect their feedback to improve and prevent them from moving to lower value segments.
@@ -76,20 +76,20 @@ Access BigQuery data from Power BI Desktop
 ##### Revive Low-Engagement Segments (Hibernating, Lost, About to Sleep, Needing Attention)
 * __Hibernating__ and __Lost__: Design customer attraction campaigns with attractive offers
 * __About to Sleep,  Needing Attention__: Use limited-time offers to reignite interest
-### Market 
-#### Analysis of the Data
+### 2. Market 
+#### 2.1 Analysis of the Data
 * __North America__: Although customers in this market account for more than half of the total of customers (52%), its revenue for nearly three-quarters of total revenue (72%). This shows that customers in North America have larger card values ​​and average spending per customer than in other regions. In particular, the __Champion__ segment in this region brings in the highest revenue, proving that this is a very important market to focus on retaining and developing.
 * __Europe__: Customers in Europe account for a fairly high proportion (29%), but their revenue contribution is quite low (18%). For the __Champion__ segment, revenue from Europe is much higher than that of other customer segments; revenue from other segments in the European market is very low.
 * __Pacific__: This market accounts for 19% of total customers and contributes 10% of revenue. This is the region with the lowest average customer spending
-#### Recommendations
+#### 2.2 Recommendations
 * __North America__: Focus on retaining and expanding the high-value Champion segment
 * __Europe__: Increase revenue from non-Champion segments with targeted engagement and promotions
 * __Pacific__:Encourage higher spending with bundled offers and discounts
-### Purchase method 
-#### Analysis of the Data
+### 3. Purchase method 
+#### 3.1 Analysis of the Data
 * Although online orders account for an overwhelming majority (88%), online revenue only accounts for 74%. Offline orders account for a small percentage (12%) but contribute to 26% of total revenue. This shows that the average card value of online orders is lower than offline orders.
 * __Champion__'s offline order volume is very high (3017), indicating that __Champion__ customers tend to shop more through offline channels. Their online orders (4014) are comparable to other segments such as __Loyal__ and __At-Risk__, indicating that offline orders are the main factor driving the total number of orders in the __Champion__ segment.
-#### Recommendations
+#### 3.2 Recommendations
 * __Online__: Encourage online shopping, convenient delivery service.
 * __Offline__: Special promotions, improve in-store experience
   
