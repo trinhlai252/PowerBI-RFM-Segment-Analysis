@@ -90,8 +90,8 @@ Access BigQuery data from Power BI Desktop
 * Although online orders account for an overwhelming majority (88%), online revenue only accounts for 74%. Offline orders account for a small percentage (12%) but contribute to 26% of total revenue. This shows that the average card value of online orders is lower than offline orders.
 * __Champion__'s offline order volume is very high (3017), indicating that __Champion__ customers tend to shop more through offline channels. Their online orders (4014) are comparable to other segments such as __Loyal__ and __At-Risk__, indicating that offline orders are the main factor driving the total number of orders in the __Champion__ segment.
 #### Recommendations
-*__Online__: Encourage online shopping, convenient delivery service.
-*__Offline__: Special promotions, improve in-store experience
+* __Online__: Encourage online shopping, convenient delivery service.
+* __Offline__: Special promotions, improve in-store experience
   
 
 
