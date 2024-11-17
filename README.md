@@ -40,13 +40,13 @@ Access BigQuery data from Power BI Desktop
 
 ## III. Visualization
 ### 1. Overview
-<img width="631" alt="page 1" src="https://github.com/user-attachments/assets/85ba7812-859a-4b62-b696-99e5de2db99f">
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/1515244a-0f79-4442-a30f-a0dc64b2e95f">
 
 ### 2. Segment Dashboard
-<img width="639" alt="page 2" src="https://github.com/user-attachments/assets/293de318-70fe-43b0-b151-05265a36e681">
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/fd13bb71-50b7-4476-86d7-60c81bcdb30d">
 
 ### 3. Customer Dashboard
-<img width="650" alt="page 3" src="https://github.com/user-attachments/assets/ef37ccb3-01f8-48a0-8fa3-88ed6b3cc87a">
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/6655a6e5-c447-4c88-9bf5-5b83f7c98565">
 
 ## V. Insight
 ### 1. Overview
