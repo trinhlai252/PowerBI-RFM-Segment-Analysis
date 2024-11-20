@@ -3,11 +3,11 @@
 ## I. Introduction
 This project involves creating a comprehensive business intelligence dashboard for Adventure Works Cycles, a global bicycle manufacturer. The dashboard provides insight into customer segments based on the RFM model and suggestions for maintaining/developing/retaining/attracting each customer segment.
 ## II. Business question
-Customer Behavior doesn't describe who is shopping in your store, it describes how they shop there. It looks at factors like how often they shop, their product preferences, and how they feel about your marketing, sales, and service. Understanding these details helps businesses effectively communicate with customers. To understand customer behavior, we also need to classify customers into separate groups with the same behavioral tendencies or common characteristics (Customer Segmentation). For example, demographic classification based on age, gender, income, education level, and marital status; geographical classification based on continent, country, region, city, or town; or psychological classification based on personality, attitude, worldview, and interest.
+Customer Behavior doesn't describe who is shopping in your store, it describes __how they shop__ there. It looks at factors like how often they shop, their product preferences, and how they feel about your marketing, sales, and service. Understanding these details helps businesses __effectively communicate__ with customers. To understand customer behavior, we also need to __classify__ customers into separate groups with the __same behavioral__ tendencies or __common characteristics__ (Customer Segmentation). For example, demographic classification based on age, gender, income, education level, and marital status; geographical classification based on continent, country, region, city, or town; or psychological classification based on personality, attitude, worldview, and interest.
 
-Requirement: Apply customer transaction data to perform RFM analysis.
+Requirement: Apply customer transaction data to perform __RFM analysis__.
 * Clearly present customer segments within the business and the performance of each segment.
-* Provide appropriate suggestions for maintaining/developing/retaining/attracting each customer segment
+* Provide appropriate suggestions for __maintaining/developing/retaining/attracting__ each customer segment
 ## III. Dataset 
 Dataset: adventureworks2019 (public Google BigQuery dataset)
 
@@ -40,16 +40,8 @@ Access BigQuery data from Power BI Desktop
 
 ## III. Visualization
 ### 1. Overview
-<img width="657" alt="image" src="https://github.com/user-attachments/assets/1515244a-0f79-4442-a30f-a0dc64b2e95f">
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/135e4675-40db-4a5f-82a6-c0bcf74ffb35">
 
-### 2. Segment Dashboard
-<img width="655" alt="image" src="https://github.com/user-attachments/assets/fd13bb71-50b7-4476-86d7-60c81bcdb30d">
-
-### 3. Customer Dashboard
-<img width="659" alt="image" src="https://github.com/user-attachments/assets/6655a6e5-c447-4c88-9bf5-5b83f7c98565">
-
-## V. Insight
-### 1. Overview
 #### 1.1 Analysis of the Data
 ##### Revenue drivers:
 * __Champions__: Despite accounting for only 10.81% of total customers, this segment generates the highest revenue, contributing $84,5M, demonstrating exceptional loyalty and high transaction values.
@@ -76,23 +68,38 @@ Access BigQuery data from Power BI Desktop
 ##### Revive Low-Engagement Segments (Hibernating, Lost, About to Sleep, Needing Attention)
 * __Hibernating__ and __Lost__: Design customer attraction campaigns with attractive offers
 * __About to Sleep,  Needing Attention__: Use limited-time offers to reignite interest
-### 2. Market 
-#### 2.1 Analysis of the Data
+
+### 2. Segment Dashboard
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/60e88efd-f3f8-4247-8629-9a5a17a08a4b">
+
+In this dashboard, we will analyze according to 2 views of the segment: market and purchase method
+
+#### 2.1 Market 
+##### 2.1.1 Analysis of the Data
 * __North America__: Although customers in this market account for more than half of the total of customers (52%), its revenue for nearly three-quarters of total revenue (72%). This shows that customers in North America have larger card values ​​and average spending per customer than in other regions. In particular, the __Champion__ segment in this region brings in the highest revenue, proving that this is a very important market to focus on retaining and developing.
 * __Europe__: Customers in Europe account for a fairly high proportion (29%), but their revenue contribution is quite low (18%). For the __Champion__ segment, revenue from Europe is much higher than that of other customer segments; revenue from other segments in the European market is very low.
 * __Pacific__: This market accounts for 19% of total customers and contributes 10% of revenue. This is the region with the lowest average customer spending
-#### 2.2 Recommendations
+##### 2.1.2 Recommendations
 * __North America__: Focus on retaining and expanding the high-value Champion segment
 * __Europe__: Increase revenue from non-Champion segments with targeted engagement and promotions
 * __Pacific__:Encourage higher spending with bundled offers and discounts
-### 3. Purchase method 
-#### 3.1 Analysis of the Data
+#### 2.2 Purchase method 
+##### 2.2.1 Analysis of the Data
 * Although online orders account for an overwhelming majority (88%), online revenue only accounts for 74%. Offline orders account for a small percentage (12%) but contribute to 26% of total revenue. This shows that the average card value of online orders is lower than offline orders.
 * __Champion__'s offline order volume is very high (3017), indicating that __Champion__ customers tend to shop more through offline channels. Their online orders (4014) are comparable to other segments such as __Loyal__ and __At-Risk__, indicating that offline orders are the main factor driving the total number of orders in the __Champion__ segment.
-#### 3.2 Recommendations
+##### 2.2.2 Recommendations
 * __Online__: Encourage online shopping, convenient delivery service.
 * __Offline__: Special promotions, improve in-store experience
   
+### 3. Customer Dashboard
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/30cd8169-bd17-40f7-8244-d50fd3166b49">
+
+Through this dashboard, users can look up specific information of each customer.
+
+## V. Conclusion
+
+
+
 
 
 
